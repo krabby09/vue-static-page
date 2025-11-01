@@ -1,3 +1,6 @@
+🔗 **배포 링크:** [https://krabby09.github.io/vue-static-page/](https://krabby09.github.io/vue-static-page/)
+🔗 **GitHub 저장소:** [https://github.com/krabby09/vue-static-page](https://github.com/krabby09/vue-static-page)
+
 # Prompt
 
 vue + ts + vite로 한가위 웹페이지용 콘텐츠 좀 만들어줘(app.vue)  
