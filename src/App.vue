@@ -31,7 +31,7 @@ const sections = ref<Section[]>([
 ])
 
 const toggleSection = (index: number) => {
-  sections.value[index].show = !sections.value[index].show
+  sections.value[index]!.show = !sections.value[index]!.show
 }
 </script>
 
